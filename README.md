@@ -29,3 +29,19 @@ run the following command in the root directory for the project.
  username: jandri78@gmail.com
  password: test123!
 ```
+
+## Create Server
+Then click on to server -> create -> server
+
+
+## Internal Host Docker
+ifconfig |grep inet
+
+
+## Conection 
+```bash
+Database: root
+Username: root
+Password: root
+```
+
