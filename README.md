@@ -6,7 +6,7 @@ A new locations application.
 This project is a starting point for a locations API.
 
 ## Folder Structure Create Database
-Configuration PostgreSQL 
+Configuration PostgreSQL with docker-compose
 ```bash
 project
 ├── docker-compose.yml
@@ -17,4 +17,15 @@ project
 run the following command in the root directory for the project.
 ```bash
  docker-compose up
+```
+
+## Try to run following URL in the browser
+```bash
+ http://localhost:16543
+```
+
+## Enter username and password in pgadmin4
+```bash
+ username: jandri78@gmail.com
+ password: test123!
 ```
