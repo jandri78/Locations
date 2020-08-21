@@ -44,4 +44,9 @@ Database: root
 Username: root
 Password: root
 ```
+## Run SPRING JAVA PROJECT
+```bash
+mvn clean install
+in folder /target we can found Locations-1.2.0-SNAPSHOT.jar
+```
 
