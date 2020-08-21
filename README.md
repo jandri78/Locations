@@ -38,7 +38,7 @@ Then click on to server -> create -> server
 ifconfig |grep inet
 
 
-## Conection 
+## Connection Database
 ```bash
 Database: root
 Username: root
